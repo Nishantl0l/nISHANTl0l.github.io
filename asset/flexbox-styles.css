@@ -21,6 +21,8 @@ nav {
     width: 30%;
 }
 .navbar-link {
+    display: flex;
+    flex-direction: row;
     width: 100%;
 }
 ul {
